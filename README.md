@@ -1,1 +1,1 @@
-[ Modal window] 
+[ Modal window]
